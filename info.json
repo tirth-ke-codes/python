@@ -13,6 +13,7 @@
         "p1.py" : "#Program to find greatest number from given three numbers",
         "p2.py" : "#Program to find entered number is even or odd",
         "p3.py" : "#Program to find given year is leap or not",
-        "p4.py" : "#Find all prime nos in a given range"
+        "p4_(a).py" : "#Find all prime nos in a given range --without using a function--",
+        "p4_(b).py" : "#Find all prime nos in a given range --using a function--"
     }
 }

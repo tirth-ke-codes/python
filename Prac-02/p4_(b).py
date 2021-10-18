@@ -1,4 +1,4 @@
-#Find all prime nos in a given range
+#Find all prime nos in a given range --using a function--
 
 def isPrime(num):
   flag=True
