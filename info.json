@@ -15,5 +15,17 @@
         "p3.py" : "#Program to find given year is leap or not",
         "p4_(a).py" : "#Find all prime nos in a given range --without using a function--",
         "p4_(b).py" : "#Find all prime nos in a given range --using a function--"
+    },
+    "Prac-03":
+    {
+        "p1.py" : "# Program to tale matks of 5 subjects out of 100 and print grade."
+    },
+    "Prac-04":
+    {
+        "p1.py":"# To make a simple calculator"
+    },
+    "Prac-05":
+    {
+        "p1.py":"# To make a simple calculator"
     }
 }
